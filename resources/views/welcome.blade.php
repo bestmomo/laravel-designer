@@ -312,6 +312,7 @@
                     <h2 class="section-heading">Keep in touch !</h2>
                     <hr class="primary">
                     <p>You can contact me for any question or suggestion for this site</p>
+                    <p><a href="https://github.com/bestmomo/laravel-designer">Source Code on GitHub</a></p>
                     <p>Thanks for your participation</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
