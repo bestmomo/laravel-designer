@@ -76,6 +76,20 @@ return [
 
     ], 
 
+    'bestmomo/laravel-installer' => [
+
+        'type' => 'require',
+
+        'version' => '0.1.*',
+
+        'providers' => [
+            'Bestmomo\Installer\InstallerServiceProvider',
+        ],
+
+        'config' => 'https://github.com/bestmomo/laravel-installer/blob/master/config/installer.php',
+
+    ], 
+
     'chumper/zipper' => [
 
         'type' => 'require',
