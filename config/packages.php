@@ -24,7 +24,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '^2.0',
+        'version' => '^2.2',
 
         'providers' => [
             'Barryvdh\Debugbar\ServiceProvider',
@@ -122,7 +122,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '^5.0',
+        'version' => '^6.0',
 
         'providers' => [
             'GrahamCampbell\Markdown\MarkdownServiceProvider',
@@ -202,7 +202,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '5.0.*',
+        'version' => '5.1.*',
 
         'providers' => [
             'LucaDegasperi\OAuth2Server\Storage\FluentStorageServiceProvider',
@@ -234,7 +234,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '~2.0.0',
+        'version' => '~2.1.0',
 
         'providers' => [
             'Maatwebsite\Excel\ExcelServiceProvider',
@@ -252,7 +252,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '1.0.*',
+        'version' => '1.1.*',
 
         'providers' => [
             'Mcamara\LaravelLocalization\LaravelLocalizationServiceProvider',
@@ -284,7 +284,7 @@ return [
 
         'type' => 'require',
 
-        'version' => 'dev-laravel-5',
+        'version' => '5.2.x-dev',
 
         'providers' => [
             'Zizaco\Entrust\EntrustServiceProvider',
