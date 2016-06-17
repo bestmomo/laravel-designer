@@ -54,7 +54,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '^2.1',
+        'version' => '^2.2',
 
         'providers' => [
             'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
@@ -122,7 +122,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '^6.0',
+        'version' => '^6.1',
 
         'providers' => [
             'GrahamCampbell\Markdown\MarkdownServiceProvider',
@@ -156,7 +156,7 @@ return [
 
         'type' => 'require',
 
-        'version' => '1.6.*',
+        'version' => '1.*',
 
         'providers' => [
             'Kris\LaravelFormBuilder\FormBuilderServiceProvider',
